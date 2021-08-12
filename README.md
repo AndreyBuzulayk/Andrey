@@ -1,2 +1,2 @@
 # Andrey
-Qqqqqq
+Канкулятор
